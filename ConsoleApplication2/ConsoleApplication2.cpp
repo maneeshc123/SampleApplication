@@ -8,6 +8,8 @@ int main()
 	int a;
     std::cout << "Hello World!\n";
 	std::cout << "This is a Tets application using Devops\n";
+
+	std::cout << "This is a Tets application using Devops From a user with zero info about devops\n";
 	std::cout<<"Pls enter a number:";
 	std::cin >> a;
 	std::cout << "You entered:" << a;
